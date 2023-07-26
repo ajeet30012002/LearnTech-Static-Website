@@ -1,1 +1,2 @@
-# LearnTech-Static-Website
+# LearnTechWeb
+This is my first website
